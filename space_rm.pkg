@@ -1,0 +1,9 @@
+v 1.0.0
+d space_rm. Remove the spaces in the parentheses when there is only one word in the parentheses
+d Meiting Wang
+d Institute for Economic and Social Research, Jinan University
+d Guangzhou, China
+d wangmeiting92@gmail.com
+
+f space_rm.ado
+f space_rm.sthlp
